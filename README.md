@@ -1,4 +1,4 @@
-# gamestellar
+# Duolingo2
 
 A new Flutter project.
 
