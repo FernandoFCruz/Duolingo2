@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790718634349",
+    "project_id": "duolingo2-cba7e",
+    "storage_bucket": "duolingo2-cba7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790718634349:android:8c154a716691dfa6bc6264",
+        "android_client_info": {
+          "package_name": "com.example.gamestellar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwQcRhssh5Etb25NKFERPZsnHc0qaTxm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
